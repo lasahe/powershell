@@ -1,4 +1,6 @@
-## Install Oh My Posh & Create PowerShell profile file
+# Oh My Posh configuration
+
+## Install Oh My Posh & Create PowerShell profile file with theme settings
 `winget install JanDeDobbeleer.OhMyPosh`
 
 `echo 'oh-my-posh init pwsh --config "C:\Users\<USER>\AppData\Local\Programs\oh-my-posh\themes\p10k_lean_edit.omp.json" | Invoke-Expression' > $PROFILE`
